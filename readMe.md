@@ -9,7 +9,7 @@ How to run:
 
 e.g. 
 
-> python mchPrintAndPlay.py 60116
+> python mchPrintAndPlay.py -deckId 60116
 
 
 4. Additional Arguments:
@@ -17,9 +17,9 @@ e.g.
 
 e.g.
 
-> python mchPrintAndPlay.py 60116 --disableCardSpacers
+> python mchPrintAndPlay.py -deckId 60116 --disableCardSpacers
 
-> python mchPrintAndPlay.py 60116 --hideHeroPack
+> python mchPrintAndPlay.py -deckId 60116 --hideHeroPack
 
 --hideHeroPack: removes hero-specific cards from the deck.
 
