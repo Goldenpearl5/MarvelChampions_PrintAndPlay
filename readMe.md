@@ -5,7 +5,7 @@ How to run:
 > pip install -r requirements.txt
 
 3. Open a command prompt and run
-> python mchPrintAndPlay.py <FILL_IN_DECK_ID>"
+> python mchPrintAndPlay.py -deckId <FILL_IN_DECK_ID>"
 
 e.g. 
 
