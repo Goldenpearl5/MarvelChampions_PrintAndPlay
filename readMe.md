@@ -24,3 +24,9 @@ e.g.
 --hideHeroPack: removes hero-specific cards from the deck.
 
 --disableCardSpacers: removes whitespace between cards.
+
+
+Upcoming features:
+- Toggle Hi-Rez cards (sourced from https://drive.google.com/drive/folders/1FO7FRfJbqGsmAkfePhkzpmEqmW1-VwF2)
+- Toggle Print and Bleed lines
+- Compatibility with other card games? (e.g. LOTR and Arkham horror LCGs)
