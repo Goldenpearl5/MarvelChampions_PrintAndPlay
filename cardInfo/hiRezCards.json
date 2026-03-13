@@ -4655,7 +4655,6 @@
         {
             "cardId": "018",
             "cardName": "Across the Spider-Verse",
-            "reprintOf": "sm_018",
             "src": ""
         },
         {
@@ -4766,7 +4765,6 @@
         {
             "cardId": "043",
             "cardName": "Global Logistics",
-            "reprintOf": "sm_043",
             "src": ""
         },
         {
@@ -4789,7 +4787,6 @@
         {
             "cardId": "047",
             "cardName": "Dum Dum Dugan",
-            "reprintOf": "sm_047",
             "src": ""
         },
         {
@@ -7538,8 +7535,6 @@
             "src": ""
         }
     ],
-
-    "!!! TODO; check for reprints in sets below": "",
     "x23": [
         {
             "cardId": "001",
@@ -8986,6 +8981,7 @@
         {
             "cardId": "021",
             "cardName": "Dum Dum Dugan",
+            "reprintOf": "sm_047",
             "src": ""
         },
         {
@@ -9118,6 +9114,7 @@
         {
             "cardId": "049",
             "cardName": "Global Logistics",
+            "reprintOf": "sm_043",
             "src": ""
         },
         {
@@ -9470,6 +9467,7 @@
         {
             "cardId": "023",
             "cardName": "Across the Spider-Verse",
+            "reprintOf": "sm_018",
             "src": ""
         },
         {
@@ -9799,6 +9797,7 @@
         {
             "cardId": "021",
             "cardName": "Nick Fury, Sr.",
+            "reprintOf": "aos_054",
             "src": ""
         },
         {
@@ -9925,6 +9924,7 @@
         {
             "cardId": "014",
             "cardName": "Suppressing Fire",
+            "reprintOf": "iceman_014",
             "src": "1_elbOEjS0Xn0oAuPgE69kH8LxlpIZFO5"
         },
         {
@@ -10112,6 +10112,7 @@
         {
             "cardId": "053",
             "cardName": "Assess the Situation",
+            "reprintOf": "ant_033",
             "src": ""
         }
     ],
@@ -10444,6 +10445,7 @@
         {
             "cardId": "032",
             "cardName": "Avengers Compound",
+            "reprintOf": "wonder_man_034",
             "src": ""
         },
         {
