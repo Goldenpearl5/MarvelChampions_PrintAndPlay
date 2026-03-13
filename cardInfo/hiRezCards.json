@@ -577,7 +577,7 @@
         {
             "cardId": "013",
             "cardName": "Chase Them Down",
-            "reprintOf": "TODO",
+            "reprintOf": "core_052",
             "src": ""
         },
         {
@@ -593,7 +593,7 @@
         {
             "cardId": "016",
             "cardName": "The Power of Aggression",
-            "reprintOf": "TODO",
+            "reprintOf": "core_055",
             "src": ""
         },
         {
@@ -624,25 +624,25 @@
         {
             "cardId": "022",
             "cardName": "Energy",
-            "reprintOf": "TODO",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Genius",
-            "reprintOf": "TODO",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Strength",
-            "reprintOf": "TODO",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
             "cardId": "025",
             "cardName": "Avengers Mansion",
-            "reprintOf": "TODO",
+            "reprintOf": "core_091",
             "src": ""
         },
         {
@@ -752,7 +752,7 @@
         {
             "cardId": "016",
             "cardName": "Make the Call",
-            "reprintOf": "TODO",
+            "reprintOf": "core_071",
             "src": ""
         },
         {
@@ -763,7 +763,7 @@
         {
             "cardId": "018",
             "cardName": "The Power of Leadership",
-            "reprintOf": "TODO",
+            "reprintOf": "core_072",
             "src": ""
         },
         {
@@ -774,25 +774,25 @@
         {
             "cardId": "020",
             "cardName": "Mockingbird / Bobbi Morse",
-            "reprintOf": "TODO",
+            "reprintOf": "core_083",
             "src": ""
         },
         {
             "cardId": "021",
             "cardName": "Energy",
-            "reprintOf": "TODO",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Genius",
-            "reprintOf": "TODO",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Strength",
-            "reprintOf": "TODO",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -897,7 +897,7 @@
         {
             "cardId": "013",
             "cardName": "Get Behind Me!",
-            "reprintOf": "TODO",
+            "reprintOf": "core_078",
             "src": ""
         },
         {
@@ -913,7 +913,7 @@
         {
             "cardId": "016",
             "cardName": "The Power of Protection",
-            "reprintOf": "TODO",
+            "reprintOf": "core_079",
             "src": ""
         },
         {
@@ -929,25 +929,25 @@
         {
             "cardId": "019",
             "cardName": "Energy",
-            "reprintOf": "TODO",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "020",
             "cardName": "Genius",
-            "reprintOf": "TODO",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "021",
             "cardName": "Strength",
-            "reprintOf": "TODO",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Avengers Mansion",
-            "reprintOf": "TODO",
+            "reprintOf": "core_091",
             "src": ""
         },
         {
@@ -1072,7 +1072,7 @@
         {
             "cardId": "017",
             "cardName": "The Power of Aggression",
-            "reprintOf": "TODO",
+            "reprintOf": "core_055",
             "src": ""
         },
         {
@@ -1088,31 +1088,31 @@
         {
             "cardId": "020",
             "cardName": "Energy",
-            "reprintOf": "TODO",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "021",
             "cardName": "Genius",
-            "reprintOf": "TODO",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Strength",
-            "reprintOf": "TODO",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Avengers Mansion",
-            "reprintOf": "TODO",
+            "reprintOf": "core_091",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Helicarrier",
-            "reprintOf": "TODO",
+            "reprintOf": "core_092",
             "src": ""
         },
         {
@@ -1212,19 +1212,19 @@
         {
             "cardId": "014",
             "cardName": "The Power of Justice",
-            "reprintOf": "TODO",
+            "reprintOf": "core_062",
             "src": ""
         },
         {
             "cardId": "015",
             "cardName": "Interrogation Room",
-            "reprintOf": "TODO",
+            "reprintOf": "core_063",
             "src": ""
         },
         {
             "cardId": "016",
             "cardName": "Surveillance Team",
-            "reprintOf": "TODO",
+            "reprintOf": "core_064",
             "src": ""
         },
         {
@@ -1240,25 +1240,25 @@
         {
             "cardId": "019",
             "cardName": "Nick Fury",
-            "reprintOf": "TODO",
+            "reprintOf": "core_084",
             "src": ""
         },
         {
             "cardId": "020",
             "cardName": "Energy",
-            "reprintOf": "TODO",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "021",
             "cardName": "Genius",
-            "reprintOf": "TODO",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Strength",
-            "reprintOf": "TODO",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -1383,13 +1383,13 @@
         {
             "cardId": "017",
             "cardName": "The Power of Protection",
-            "reprintOf": "TODO",
+            "reprintOf": "core_079",
             "src": ""
         },
         {
             "cardId": "018",
             "cardName": "Med Team",
-            "reprintOf": "TODO",
+            "reprintOf": "core_080",
             "src": ""
         },
         {
@@ -1410,25 +1410,25 @@
         {
             "cardId": "022",
             "cardName": "Energy",
-            "reprintOf": "TODO",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Genius",
-            "reprintOf": "TODO",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Strength",
-            "reprintOf": "TODO",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
             "cardId": "025",
             "cardName": "Avengers Mansion",
-            "reprintOf": "TODO",
+            "reprintOf": "core_091",
             "src": ""
         },
         {
@@ -1818,154 +1818,158 @@
             "cardId": "001",
             "cardName": "Ant-Man",
             "side": "a",
-            "src": ""
+            "src": "1RgTsXpmdTBwr9OuzoVOX4E9s9PIq9gTr"
         },
         {
             "cardId": "001",
             "cardName": "Scott Lang",
             "side": "b",
-            "src": ""
+            "src": "1eJxPA8WMtmSTbAO7WXkT-YCgpcKRX67v"
         },
         {
             "cardId": "001",
             "cardName": "Ant-Man",
             "side": "c",
-            "src": ""
+            "src": "19dRuEpE3o5J3Y5apAOYMWWbywmP-_1s_"
         },
         {
             "cardId": "002",
             "cardName": "Wasp / Nadia Van Dyne",
-            "src": ""
+            "src": "1FCfZ6PlNfQgyUp8kOzKaqRNm-O-bnoNc"
         },
         {
             "cardId": "003",
             "cardName": "Giant Stomp",
-            "src": ""
+            "src": "1MfCXLKbCL95bqq5mTRyswAKyE6d6TUHl"
         },
         {
             "cardId": "004",
             "cardName": "Hive Mind",
-            "src": ""
+            "src": "1UMxCg7DSVug-oeb2aBmpdjlPIg2kuUrp"
         },
         {
             "cardId": "005",
             "cardName": "Resize",
-            "src": ""
+            "src": "1PAMMuF3i3pfuVAicXJOG5NHriBtVjtSc"
         },
         {
             "cardId": "006",
             "cardName": "Pym Particles",
-            "src": ""
+            "src": "1FAoZ-CGFegrJ-xu011EX-r0pmVBjcYKH"
         },
         {
             "cardId": "007",
             "cardName": "Army of Ants",
-            "src": ""
+            "src": "1XaSmJ9HQqXV1O7-1Xg5TxQ5ML-j-QiNb"
         },
         {
             "cardId": "008",
             "cardName": "Ant-Man's Helmet",
-            "src": ""
+            "src": "1Lvv2XOle3LESBKB_0oC5exJTo_1XUWig"
         },
         {
             "cardId": "009",
             "cardName": "Giant Strength",
-            "src": ""
+            "src": "1hMYklGBjHaSxLXcZrICO-P8MnQniEJEi"
         },
         {
             "cardId": "010",
             "cardName": "Wrist Gauntlets",
-            "src": ""
+            "src": "1aLcrU_XpDkou8oBxGOC-QeKm3tKNI4wB"
         },
         {
             "cardId": "011",
             "cardName": "Ant-Man / Hank Pym",
-            "src": ""
+            "src": "1nJBBunTjNT0w8r3oytSLc25ciewjDbIL"
         },
         {
             "cardId": "012",
             "cardName": "Giant-Man",
-            "src": ""
+            "src": "1m07C9n7xsPT3ZCemLlnSv-gEMNjbS3WG"
         },
         {
             "cardId": "013",
             "cardName": "Ronin",
-            "src": ""
+            "src": "15SZc6cpJXJUIMbBlE504VueOXhA9XCP0"
         },
         {
             "cardId": "014",
             "cardName": "Stinger / Cassie Lang",
-            "src": ""
+            "src": "1i-T4ePr8avy6t6hQGp7TXrAXenZotvan"
         },
         {
             "cardId": "015",
             "cardName": "Call for Aid",
-            "src": ""
+            "src": "1-2qSQzPPpc1LJM9QQXhQYZefHjYpmMdA"
         },
         {
             "cardId": "016",
             "cardName": "Moxie",
-            "src": ""
+            "src": "10Tc1UxB1afbhr6H34wRZOJaIBQC7H5aw"
         },
         {
             "cardId": "017",
             "cardName": "Power Gloves",
-            "src": ""
+            "src": "1J5bu2xqsYxKRBI7W7tgoPOBYrK_rcYRN"
         },
         {
             "cardId": "018",
             "cardName": "Reinforced Suit",
-            "src": ""
+            "src": "14qdvBZ5AgHbsRA1AHl83JERo0ICn1xk8"
         },
         {
             "cardId": "019",
             "cardName": "First Aid",
+            "reprintOf": "core_086",
             "src": ""
         },
         {
             "cardId": "020",
             "cardName": "Swarm Tactics",
-            "src": ""
+            "src": "1afqbMJEm18WUV8fcurZ10gTKWzo8FHWb"
         },
         {
             "cardId": "021",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Team-Building Exercise",
-            "src": ""
+            "src": "1qBub5akyrJLCMc_ZWQq-TKrvFt0wYARq"
         },
         {
             "cardId": "030",
             "cardName": "Moment of Triumph",
-            "src": ""
+            "src": "TODO"
         },
         {
             "cardId": "031",
             "cardName": "Lay Down the Law",
-            "src": ""
+            "src": "TODO"
         },
         {
             "cardId": "032",
             "cardName": "Muster Courage",
-            "src": ""
+            "src": "TODO"
         },
         {
             "cardId": "033",
             "cardName": "Assess the Situation",
-            "src": ""
+            "src": "TODO"
         }
     ],
     "wsp": [
@@ -1973,159 +1977,163 @@
             "cardId": "001",
             "cardName": "Wasp",
             "side": "a",
-            "src": ""
+            "src": "1eibvVA-fmKrdCxFcU68Ymt9KqgxuTHcg"
         },
         {
             "cardId": "001",
             "cardName": "Nadia Van Dyne",
             "side": "b",
-            "src": ""
+            "src": "1JQnIv-xwb7uInF0guSce9IRHUNPi8djl"
         },
         {
             "cardId": "001",
             "cardName": "Wasp",
             "side": "c",
-            "src": ""
+            "src": "1OOKTQTG0GOHkyJ1cZqhuVZj4R9tEEjRS"
         },
         {
             "cardId": "002",
             "cardName": "Ant-Man / Scott Lang",
-            "src": ""
+            "src": "1_-nPvzqZ3vrApOisKB_jCKlOszeXYuxM"
         },
         {
             "cardId": "003",
             "cardName": "Giant Help",
-            "src": ""
+            "src": "1U4MEw_8L2dh0J8Zrfa7oExeZMV6d8f-9"
         },
         {
             "cardId": "004",
             "cardName": "Pinpoint Strike",
-            "src": ""
+            "src": "1R7FxZ1EOPs2_2jnC6IcPvvc-fxU4Hqfv"
         },
         {
             "cardId": "005",
             "cardName": "Rapid Growth",
-            "src": ""
+            "src": "15bNJqtghqclbtVkj0mhxJKUoKx5C9Kbe"
         },
         {
             "cardId": "006",
             "cardName": "Wasp Sting",
-            "src": ""
+            "src": "10MAhZ8zWz883M4EMajl6kwg22pp4gMUU"
         },
         {
             "cardId": "007",
             "cardName": "Pym Particles",
-            "src": ""
+            "src": "1kIPD42e6rOO1gYhpsEzrE81uV9l4L5Bt"
         },
         {
             "cardId": "008",
             "cardName": "Red Room Training",
-            "src": ""
+            "src": "1kgAMQDocU4-djXsnjFWK89IyP-b1Cfuf"
         },
         {
             "cardId": "009",
             "cardName": "Bio-Synthetic Wings",
-            "src": ""
+            "src": "1sF2nop8PJ9WHj5l1sQ4T80xM3BuRfZJN"
         },
         {
             "cardId": "010",
             "cardName": "Wasp's Helmet",
-            "src": ""
+            "src": "1oPPJ1aXkEKtSYbP5SDmyEvzHLPwN8J0w"
         },
         {
             "cardId": "011",
             "cardName": "Thor / Jane Foster",
-            "src": ""
+            "src": "18-sT3BvS5YxfinA0mIeFALoXrJ6KIIfs"
         },
         {
             "cardId": "012",
             "cardName": "Wasp / Janet Van Dyne",
-            "src": ""
+            "src": "1hov5eNH3nIrLsrdrzLSB12we-uxSmZYt"
         },
         {
             "cardId": "013",
             "cardName": "Into the Fray",
-            "src": ""
+            "src": "1J-2sjNOWjex6fAFBwLCoj_qNKycnldYo"
         },
         {
             "cardId": "014",
             "cardName": "Surprise Attack",
-            "src": ""
+            "src": "1dzKVo_NsF_IlL6_pxmjKLS9FVQ9Zwa1a"
         },
         {
             "cardId": "015",
             "cardName": "The Power of Aggression",
+            "reprintOf": "core_055",
             "src": ""
         },
         {
             "cardId": "016",
             "cardName": "Boot Camp",
-            "src": ""
+            "src": "1gx81pqIcB2nt8Zkmj0VM90z5N1VJ6w9T"
         },
         {
             "cardId": "017",
             "cardName": "Lie in Wait",
-            "src": ""
+            "src": "1VH7p09-GY6aZHgNH20y17-77XLAvqJkh"
         },
         {
             "cardId": "018",
             "cardName": "Ironheart",
-            "src": ""
+            "src": "1IO3CHKLh6FMa_8JjR817JvMHESZV0wWY"
         },
         {
             "cardId": "019",
             "cardName": "Spider-Man / Miles Morales",
-            "src": ""
+            "src": "1ICxkUoxB77zwXsWoa5H3dYK6aRTDDCp3"
         },
         {
             "cardId": "020",
             "cardName": "Swarm Tactics",
-            "src": ""
+            "src": "10J2J_U-vhYTvEQGTezZaNA9GNHUeJnJq"
         },
         {
             "cardId": "021",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "The Power in All of Us",
-            "src": ""
+            "src": "1ebinWddUJ6Igb1POCHirFClUHKMgZna0"
         },
         {
             "cardId": "025",
             "cardName": "Quincarrier",
-            "src": ""
+            "src": "19y433u8sagMDtWPxeOm8gbxoj0EyUFMe"
         },
         {
             "cardId": "031",
             "cardName": "Running Interference",
-            "src": ""
+            "src": "TODO"
         },
         {
             "cardId": "032",
             "cardName": "All for One",
-            "src": ""
+            "src": "TODO"
         },
         {
             "cardId": "033",
             "cardName": "Perseverance",
-            "src": ""
+            "src": "TODO"
         },
         {
             "cardId": "034",
             "cardName": "Athletic Conditioning",
-            "src": ""
+            "src": "TODO"
         }
     ],
     "qsv": [
@@ -2229,16 +2237,19 @@
         {
             "cardId": "019",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "020",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "021",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -2378,16 +2389,19 @@
         {
             "cardId": "020",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "021",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -2522,16 +2536,19 @@
         {
             "cardId": "021",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -2918,16 +2935,19 @@
         {
             "cardId": "021",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -3047,6 +3067,7 @@
         {
             "cardId": "018",
             "cardName": "The Power of Leadership",
+            "reprintOf": "core_072",
             "src": ""
         },
         {
@@ -3211,16 +3232,19 @@
         {
             "cardId": "022",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -3335,16 +3359,19 @@
         {
             "cardId": "017",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "018",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "019",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -3494,6 +3521,7 @@
         {
             "cardId": "021",
             "cardName": "Avengers Mansion",
+            "reprintOf": "core_091",
             "src": ""
         },
         {
@@ -3504,16 +3532,19 @@
         {
             "cardId": "023",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "025",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         
@@ -3926,16 +3957,19 @@
         {
             "cardId": "024",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "025",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -4090,16 +4124,19 @@
         {
             "cardId": "025",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "027",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -4254,16 +4291,19 @@
         {
             "cardId": "025",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "027",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -4418,16 +4458,19 @@
         {
             "cardId": "025",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "027",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -4597,6 +4640,7 @@
         {
             "cardId": "026",
             "cardName": "Helicarrier",
+            "reprintOf": "core_092",
             "src": ""
         },
         {
@@ -4701,6 +4745,7 @@
         {
             "cardId": "015",
             "cardName": "The Power of Aggression",
+            "reprintOf": "core_055",
             "src": ""
         },
         {
@@ -4865,16 +4910,19 @@
         {
             "cardId": "024",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "025",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -5014,16 +5062,19 @@
         {
             "cardId": "022",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -5450,16 +5501,19 @@
         {
             "cardId": "025",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "027",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -5609,16 +5663,19 @@
         {
             "cardId": "024",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "025",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -5748,16 +5805,19 @@
         {
             "cardId": "022",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -6059,16 +6119,19 @@
         {
             "cardId": "061",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "062",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "063",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -6602,16 +6665,19 @@
         {
             "cardId": "022",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -6781,16 +6847,19 @@
         {
             "cardId": "022",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -7196,16 +7265,19 @@
         {
             "cardId": "023",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "024",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "025",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -7350,16 +7422,19 @@
         {
             "cardId": "025",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "027",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -7646,16 +7721,19 @@
         {
             "cardId": "027",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "028",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "029",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -7810,16 +7888,19 @@
         {
             "cardId": "025",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "027",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -7969,16 +8050,19 @@
         {
             "cardId": "025",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "027",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -8133,16 +8217,19 @@
         {
             "cardId": "024",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "025",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -8271,16 +8358,19 @@
         {
             "cardId": "020",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": "1VOkTWnC6pkg2YObFcvkKMfQvNfzKdAGr"
         },
         {
             "cardId": "021",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": "1A8_WXbw63WZHIMFpM_VO6UcjoVUs2nTv"
         },
         {
             "cardId": "022",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": "1dmzG6Im-pEYyDqPoiMcbTHONH2uvryFj"
         },
         {
@@ -8541,6 +8631,7 @@
         {
             "cardId": "023",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
@@ -8680,16 +8771,19 @@
         {
             "cardId": "020",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "021",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -9056,6 +9150,7 @@
         {
             "cardId": "015",
             "cardName": "Great Responsibility",
+            "reprintOf": "core_061",
             "src": ""
         },
         {
@@ -9545,16 +9640,19 @@
         {
             "cardId": "027",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "028",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "029",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -9674,16 +9772,19 @@
         {
             "cardId": "021",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "022",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "023",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -10062,16 +10163,19 @@
         {
             "cardId": "024",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "025",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "026",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
@@ -10251,16 +10355,19 @@
         {
             "cardId": "029",
             "cardName": "Energy",
+            "reprintOf": "core_088",
             "src": ""
         },
         {
             "cardId": "030",
             "cardName": "Genius",
+            "reprintOf": "core_089",
             "src": ""
         },
         {
             "cardId": "031",
             "cardName": "Strength",
+            "reprintOf": "core_090",
             "src": ""
         },
         {
