@@ -7,19 +7,29 @@ How to run:
 3. Open a command prompt and run
 > python src/main.py
 
-4. Additional Arguments:
+
+OPTIONAL STEPS:
+Additional Arguments:
 > -deckId <FILL_IN_DECK_ID>: specify deckID from marvelCDB.
+
 > --hideHeroPack: removes hero-specific cards from the deck.
+
 > --disableCardSpacers: removes whitespace between cards.
+
 > --initOfflineMode: download ALL card images and info; allows offline use in future runs.
+
 > --offlineMode: use a local files to generate the PDF. (.txt file and images)
+
 
 e.g.
 > python mchPrintAndPlay.py -deckId 60116
+
 > python mchPrintAndPlay.py -deckId sampleDeck.txt --offlineMode
+
 > python mchPrintAndPlay.py --disableCardSpacers --hideHeroPack
 
-5. A note about offline mode:
+
+OFFLINE MODE:
 Due to the frequent MarvelCDB outages, I added an offline mode. 
  a) Run with the --initOfflineMode flag when MarvelCDB is online. It will download all card images/data.
  b) Create a decklist .txt in the /decklists folder. An example file is enclosed. You can create this manually, or click the "download -> text file" button on MarvelCDB.
