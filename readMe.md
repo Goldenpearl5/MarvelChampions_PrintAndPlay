@@ -5,26 +5,25 @@ How to run:
 > pip install -r requirements.txt
 
 3. Open a command prompt and run
-> python mchPrintAndPlay.py -deckId <FILL_IN_DECK_ID>"
-
-e.g. 
-
-> python mchPrintAndPlay.py -deckId 60116
-
+> python src/main.py
 
 4. Additional Arguments:
-> --disableCardSpacers --hideHeroPack
+> -deckId <FILL_IN_DECK_ID>: specify deckID from marvelCDB.
+> --hideHeroPack: removes hero-specific cards from the deck.
+> --disableCardSpacers: removes whitespace between cards.
+> --initOfflineMode: download ALL card images and info; allows offline use in future runs.
+> --offlineMode: use a local files to generate the PDF. (.txt file and images)
 
 e.g.
+> python mchPrintAndPlay.py -deckId 60116
+> python mchPrintAndPlay.py -deckId sampleDeck.txt --offlineMode
+> python mchPrintAndPlay.py --disableCardSpacers --hideHeroPack
 
-> python mchPrintAndPlay.py -deckId 60116 --disableCardSpacers
-
-> python mchPrintAndPlay.py -deckId 60116 --hideHeroPack
-
---hideHeroPack: removes hero-specific cards from the deck.
-
---disableCardSpacers: removes whitespace between cards.
-
+5. A note about offline mode:
+Due to the frequent MarvelCDB outages, I added an offline mode. 
+ a) Run with the --initOfflineMode flag when MarvelCDB is online. It will download all card images/data.
+ b) Create a decklist .txt in the /decklists folder. An example file is enclosed. You can create this manually, or click the "download -> text file" button on MarvelCDB.
+ c) Run with the --offlineMode flag at any time. You can specify the txt file name in the -deckId argument. Otherwise you will be prompted to enter it.
 
 Upcoming features:
 - Toggle Hi-Rez cards (sourced from https://drive.google.com/drive/folders/1FO7FRfJbqGsmAkfePhkzpmEqmW1-VwF2)
