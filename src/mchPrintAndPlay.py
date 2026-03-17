@@ -1,6 +1,7 @@
 # default modules
 import os
 import math
+import re
 
 # pip modules
 from PIL import Image, ImageDraw, ImageFont
@@ -113,7 +114,11 @@ def create_deck_pdf_from_card_ids(card_ids, deck_name=""):
     
     # Save the list of image grids as a PDF
     #timestamp =  time.time_ns()
-    wipPdfName = f"{config.DECK_IMGS_FOLDER}/{deck_name}_wip.pdf"
+
+    # clean up filename
+    deck_name_stripped = re.sub('\W+','', deck_name)
+
+    wipPdfName = f"{config.DECK_IMGS_FOLDER}/{deck_name_stripped}_wip.pdf"
     deck_imgs[0].save(wipPdfName, save_all=True, append_images=deck_imgs[1:])
 
     # Resize PDF (digital DPI is different than printable DPI, but image resolution is still saved)
@@ -125,7 +130,7 @@ def create_deck_pdf_from_card_ids(card_ids, deck_name=""):
         page.scale_by(config.PDF_DOWNSCALE_PECENTAGE)
         pdfWriter.add_page(page)
 
-    finalPdfName = f"{config.DECK_IMGS_FOLDER}/{deck_name}.pdf"
+    finalPdfName = f"{config.DECK_IMGS_FOLDER}/{deck_name_stripped}.pdf"
     pdfWriter.write(finalPdfName)
     os.remove(wipPdfName)
 
