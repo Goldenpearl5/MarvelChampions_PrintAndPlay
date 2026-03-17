@@ -13,6 +13,7 @@
 That's it! You should have a printable PDF of your decklist.
 
 ### OPTIONAL STEPS:
+These are for advanced users, or those who want to use this program many times.
 
 #### Additional Arguments
 > -deckId <FILL_IN_DECK_ID>: specify deckID from marvelCDB.
@@ -37,9 +38,11 @@ e.g.
 #### OFFLINE MODE:
 
 Due to the frequent MarvelCDB outages, I added an offline mode. 
- a) Run with the --initOfflineMode flag when MarvelCDB is online. It will download all card images/data.
- b) Create a decklist .txt in the /decklists folder. An example file is enclosed. You can create this manually, or click the "download -> text file" button on MarvelCDB.
- c) Run with the --offlineMode flag at any time. You can specify the txt file name in the -deckId argument. Otherwise you will be prompted to enter it.
+ - Run with the --initOfflineMode flag when MarvelCDB is online. It will download all card images/data.
+
+ - Create a decklist .txt in the /decklists folder. An example file is enclosed. You can create this manually, or click the "download -> text file" button on MarvelCDB.
+
+ - Run with the --offlineMode flag at any time. You can specify the txt file name in the -deckId argument. Otherwise you will be prompted to enter it.
 
 Upcoming features:
 - Toggle Hi-Rez cards (sourced from https://drive.google.com/drive/folders/1FO7FRfJbqGsmAkfePhkzpmEqmW1-VwF2)
