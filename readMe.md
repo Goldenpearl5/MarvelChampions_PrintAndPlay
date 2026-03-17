@@ -8,6 +8,9 @@
 3. Open a command prompt and run
 > python src/main.py
 
+4. Enter the deck ID of your MarvelCDB deck. (Found in the URL)
+
+That's it! You should have a printable PDF of your decklist.
 
 ### OPTIONAL STEPS:
 
