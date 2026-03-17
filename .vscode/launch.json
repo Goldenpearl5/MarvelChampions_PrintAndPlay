@@ -6,12 +6,19 @@
     "configurations": [
 
         {
-            "name": "Python Debugger: Card Scraper",
+            "name": "Python Debugger: PrintableDeck",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/mchPrintAndPlay.py",
+            "program": "${workspaceFolder}/src/main.py",
             "console": "integratedTerminal",
-            "args": ["-deckId", "60116", "--hideHeroPack"]
+            "args": ["-deckId", "sampleDeck.txt", "--hideHeroPack", "--offlineMode",]
+        },
+        {
+            "name": "Python Debugger: test",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/hallOfHeroesApi.py",
+            "console": "integratedTerminal"
         }
     ]
 }
