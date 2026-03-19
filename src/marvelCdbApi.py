@@ -91,7 +91,7 @@ def download_deck_info_by_deck_id(deck_id, hide_hero_pack=False):
 
     # Parse the JSON Response
     card_quantities = data.get('slots', {}) # dictionary of card ID to card quantity. e.g. cardQuantities["12015"] = 3
-    card_ids = card_quantities.keys()
+    card_ids = list(card_quantities.keys())
     print("Decklist retrieved.")
 
     # Retrieve detailed info on each card

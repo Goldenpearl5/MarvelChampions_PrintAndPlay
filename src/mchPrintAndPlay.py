@@ -44,7 +44,7 @@ def create_summary_card_img(card_slots, deck_name=""):
     pdfkit.from_string(deck_summary_html_str, 'out5.pdf', configuration=config, options=options, css=css)
     print(deck_summary)
 
-def create_deck_pdf_from_card_ids(card_ids, deck_name=""):
+def create_deck_pdf_from_card_ids(card_quantities, deck_name=""):
     print("\nSTEP 3: Creating a PDF\n")
     # Create deck_imgs folder, if it doesnt exist
     if(not os.path.exists(config.DECK_IMGS_FOLDER)):
@@ -52,7 +52,7 @@ def create_deck_pdf_from_card_ids(card_ids, deck_name=""):
 
     # Create a list of card images.
     card_imgs=[]
-    for card_id in card_ids:
+    for card_id, quantity in card_quantities.items():
         card_img = None
         try:
             # load card image
@@ -80,7 +80,8 @@ def create_deck_pdf_from_card_ids(card_ids, deck_name=""):
             font = ImageFont.truetype(font_path, 60)
             ImageDraw.Draw(card_img).text(txt_coords, card_name, txt_color, font=font, anchor="mm") # anchor mm centers text
 
-        card_imgs.append(card_img)
+        for idx in range(quantity):
+            card_imgs.append(card_img)
     
     # Combine the card images into grids
     numPagesToCreate = math.ceil(len(card_imgs)/config.CARDS_PER_PAGE)
