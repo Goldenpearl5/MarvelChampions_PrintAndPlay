@@ -74,13 +74,14 @@ else:
 card_ids = deck_obj["card_ids"]
 deck_name = deck_obj["deck_name"]
 card_quantities = deck_obj["card_quantities"]
+card_data = deck_obj["card_data"]
 
 # download card images in deck
 print("\nSTEP 3: Downloading card images\n")
 marvelCdbApi.download_card_imgs_in_list(card_ids) 
 
 # assemble PDF from card images
-mchPrintAndPlay.create_deck_pdf_from_card_ids(card_quantities, deck_name)
+mchPrintAndPlay.create_deck_pdf_from_card_ids(card_quantities, card_data, deck_name)
 
 
 

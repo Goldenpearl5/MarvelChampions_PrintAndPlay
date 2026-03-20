@@ -44,7 +44,7 @@ def create_summary_card_img(card_slots, deck_name=""):
     pdfkit.from_string(deck_summary_html_str, 'out5.pdf', configuration=config, options=options, css=css)
     print(deck_summary)
 
-def create_deck_pdf_from_card_ids(card_quantities, deck_name=""):
+def create_deck_pdf_from_card_ids(card_quantities, card_data, deck_name=""):
     print("\nSTEP 3: Creating a PDF\n")
     # Create deck_imgs folder, if it doesnt exist
     if(not os.path.exists(config.DECK_IMGS_FOLDER)):
@@ -71,7 +71,8 @@ def create_deck_pdf_from_card_ids(card_quantities, deck_name=""):
 
             # retrieve card name
             card_name = "Unknown"
-            #card_name = get_card_name_by_card_id(card_id) # TODO offline mode
+            if card_id in card_data:
+                card_name = card_data[card_id]["cardName"]
 
             # add text to box
             txt_color = (0, 0, 0)
